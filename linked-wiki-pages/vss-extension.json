@@ -1,10 +1,10 @@
 {
   "manifestVersion": 1.0,
   "id": "linked-wiki-pages",
-  "version": "0.1.32",
-  "name": "Linked Wiki pages",
-  "description": "Displays the list of all Wiki pages linked to current Work Item.",
-  "publisher": "boykoant",
+  "version": "0.1.32.2",
+  "name": "Linked Wiki pages (utf-8)",
+  "description": "UTF-8 version of boyko-ant's extension. Displays the list of all Wiki pages linked to current Work Item.",
+  "publisher": "MikaelEkelund",
   "galleryFlags": [
     "Public",
     "Preview"
@@ -21,7 +21,7 @@
     {
       "id": "linked-wiki-pages",
       "type": "ms.vss-work-web.work-item-form-group",
-      "description": "Displays the list of all Wiki pages linked to current Work Item.",
+      "description": "UTF-8 version of boyko-ant's extension. Displays the list of all Wiki pages linked to current Work Item.",
       "targets": [
         "ms.vss-work-web.work-item-form"
       ],
@@ -33,7 +33,7 @@
     }
   ],
   "categories": [
-    "Plan and track"
+    "Azure Boards"
   ],
   "tags": [
     "wiki"
@@ -45,15 +45,15 @@
   },
   "links": {
     "repository": {
-      "uri": "https://github.com/TFSExt/Forms"
+      "uri": "https://github.com/Stratiteq/Forms"
     },
     "issues": {
-      "uri": "https://github.com/TFSExt/Forms/issues"
+      "uri": "https://github.com/Stratiteq/Forms/issues"
     }
   },
   "repository": {
     "type": "git",
-    "uri": "https://github.com/TFSExt/Forms"
+    "uri": "https://github.com/Stratiteq/Forms"
   },
   "files": [
     {
